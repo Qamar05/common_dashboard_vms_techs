@@ -480,7 +480,8 @@
     padding:.625rem 1.5rem;
     color:var(--vz-vertical-menu-item-color);
     font-size:.9375rem;
-    font-family:hkgrotesk,sans-serif
+    font-family:hkgrotesk,sans-serif;
+    margin-bottom: 10px;
 }
 .navbar-menu .navbar-nav .nav-link.active{
     color:var(--vz-vertical-menu-item-active-color)
